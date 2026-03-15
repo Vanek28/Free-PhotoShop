@@ -13,7 +13,7 @@
 pip install customtkinter pillow
 
 Потім просто запускай мій файл:
-python main.py
+Redactor.py
 
 ### 🎨 Про дизайн:
 Використав бібліотеку CustomTkinter, тому кнопки виглядають по-сучасному, а не як у Windows 95. Весь код на чистому Python + Pillow для обробки пікселів.
